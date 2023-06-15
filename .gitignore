@@ -1,0 +1,7 @@
+/mobile-backend/target/
+/mobile-backend/.mvn/wrapper/
+/mobile-backend/yummer-mobile-backend.iml
+/auth-server/target/
+/auth-server/yummer-auth-server.iml
+/auth-server/.mvn/wrapper/
+/.idea/
